@@ -195,8 +195,8 @@ https://livestream.com/accounts/27235681
 > 因此，在下面的内容中我会穿插介绍如何分辨伪类。
 
 ### ¶ 郭先生视频文字版（感谢「战友之声」听写组）
-* http://littleantvoice.blogspot.com （请注意，该网站非 HTTPS 加密）
-* https://github.com/ourhimalayas/txt （Github 托管，访问相对安全）
+* https://littleantvoice.blogspot.com
+* https://github.com/ourhimalayas/txt
 * Discord「战友之声」聊天室中的 `#下载郭先生视频文字`
 
 ### ¶ 郭爆料革命视频搜索引擎
