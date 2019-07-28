@@ -227,7 +227,7 @@ https://guo.freevog.ml
 * 可抵税的 501(c)(3)：https://rolfoundation.org/index-chinese.php
 * 不抵税的 501(c)(4)：https://rolsociety.org/index-chinese.php
 
-网站上都有相应的捐款入口。  
+捐款指南请参考 https://spark.adobe.com/page/gzJnT4VKRYgC9  
 如需帮助，请到「战友之声」Discord 聊天室的 `#法治基金捐款互助`。
 
 ### ¶ Twitter 推荐关注的用户，以及 YouTube 推荐关注的频道，都是战友吗？
