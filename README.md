@@ -105,6 +105,7 @@ https://livestream.com/accounts/27235681
 ### ¶ Discord 聊天室
 * 战友之声 https://discord.gg/ZhGK3EA
 * 北京姑娘聊天室 https://discord.gg/h7CvWdq
+* 爆料革命小池塘 https://discord.gg/Bs8Qf38
 
 ### ¶ YouTube（排名不分先后，没被收录的战友请多海涵，本人注意力有限）
 * 郭文贵：郭先生的官方油管频道，但直播功能被限制，只能上传录播  
