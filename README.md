@@ -120,9 +120,6 @@ https://livestream.com/accounts/27235681
   * https://www.youtube.com/channel/UCm3Ysfy0iXhGbIDTNNwLqbQ
   * https://www.youtube.com/channel/UChn0KgNrPmUj5WtF_Z56EFQ
   * https://www.youtube.com/channel/UCUJlNsbSiCoZZDsmDKnoUdg
-* 妄议热线：全球华人（海外/大陆/台/港/澳?）的热线电话，每人五分钟畅所欲言
-  * https://www.youtube.com/channel/UC0JPw1DKfJLj6nbwzUCI7mw
-  * https://www.youtube.com/channel/UCXRW8TZMpe5Iaf7UsvKwAvg
 * 大卫小哥：前中共情报人员，深谙「一带一路」能源线及金融，配合郭爆料精准打击  
   https://www.youtube.com/channel/UCq5haQKrVHnCQ84YmyBn4KA
 * Inty：搞 IT 的新疆小伙，用程序员的思维传播爆料革命  
@@ -160,7 +157,6 @@ https://livestream.com/accounts/27235681
 * Sara https://twitter.com/sarawei3
 * 战友之声 https://twitter.com/XMY2018
 * 政事小哥 https://twitter.com/zszb_xiaoge
-* 细思小哥 https://twitter.com/xiteller
 * 大卫 https://twitter.com/David90582574
 * Inty https://twitter.com/IntyPython
 * 全民挺郭联盟 https://twitter.com/redwallpusher
