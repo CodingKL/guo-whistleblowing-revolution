@@ -118,6 +118,7 @@ https://livestream.com/accounts/27235681
   * https://www.youtube.com/channel/UCm3Ysfy0iXhGbIDTNNwLqbQ
   * https://www.youtube.com/channel/UChn0KgNrPmUj5WtF_Z56EFQ
   * https://www.youtube.com/channel/UCUJlNsbSiCoZZDsmDKnoUdg
+* 小五说 https://www.youtube.com/channel/UC5kGYqYH64yhiEm3tATQGTg
 * 大卫小哥：前中共情报人员，深谙「一带一路」能源线及金融，配合郭爆料精准打击  
   https://www.youtube.com/channel/UCq5haQKrVHnCQ84YmyBn4KA
 * Inty：搞 IT 的新疆小伙，用程序员的思维传播爆料革命  
@@ -155,6 +156,7 @@ https://livestream.com/accounts/27235681
 * Sara https://twitter.com/sarawei3
 * 战友之声 https://twitter.com/XMY2018
 * 政事小哥 https://twitter.com/zszb_xiaoge
+* Fridaytalks 小五说 https://twitter.com/Fridaytalks
 * 大卫 https://twitter.com/David90582574
 * Inty https://twitter.com/IntyPython
 * 全民挺郭联盟 https://twitter.com/redwallpusher
