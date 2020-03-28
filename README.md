@@ -8,7 +8,7 @@
 
 > 在阅读正文前，你需要保证你能安全地访问到外网
 
-近三年的郭文贵爆料革命，信息量极其巨大。  
+三年的郭文贵爆料革命，信息量极其巨大。  
 目前由于没有明确的入门指引，往往导致很多新人难以消化，很容易就被伪类们带歪了。
 
 本着「授人以鱼不如授人以渔」的原则，以下我将一路以来我所知道的都汇总出来。  
@@ -16,7 +16,7 @@
 
 ## § 新手入门
 
-个人认为，最好的入门是政事小哥的「一起来跨年:回顾郭文贵爆料革命2018年特别节目」：
+个人认为，最好的入门是政事小哥的「一起来跨年：回顾郭文贵爆料革命2018年特别节目」的介绍视频：
 
 * https://youtu.be/O7wh0t0C4f4?t=284
 
@@ -24,18 +24,22 @@
 
 * https://youtu.be/_xvE8aVTc1E?t=273
 
-视频时长四个多小时，足以让你快速了解这两年多以来究竟发生了什么。  
 （可调节 1.5x / 2x 播放速度以节省观看时间）
 
 可能是视频做得实在太好了，影响实在太轰动了，不久后政事小哥在国内的家人便受到威胁。  
 迫于压力，政事小哥从此退出台前，他的 YouTube 频道也被迫「关闭」。
 
 如果你觉得视频太长了，那么以下还提供简要文字版：
+
 * Google Drive 托管的 PPT 版本：https://drive.google.com/file/d/1_1OI_9bzHRih-YtDfPepmHDzlEJEQSrQ/view
 * 引用来源：https://twitter.com/tuiqiandang/status/1074130252354502656
 * 视频解说：https://www.youtube.com/watch?v=nB9jTM64nJ0
 
-其他资料：
+其他汇总资料：
+
+* 郭文贵先生爆料革命大事件手册：
+  * https://gnews.org/zh-hans/120869/
+  * 源文件：https://s3-ap-northeast-1.amazonaws.com/news.guo.offload.media/wp-content/uploads/2020/02/21205905/%E9%83%AD%E6%96%87%E8%B4%B5%E5%85%88%E7%94%9F%E7%88%86%E6%96%99%E9%9D%A9%E5%91%BD%E5%A4%A7%E4%BA%8B%E4%BB%B6%E6%89%8B%E5%86%8C.pdf
 * 爆料大事件部分汇总：
   * https://docs.google.com/spreadsheets/d/1uAH4_-NcoQGy5FS1wocT19nqK9uLvl3ai6i8BFN-gVU
   * 引用来源：https://twitter.com/tuiqiandang/status/983374527395762178
@@ -44,8 +48,8 @@
   * 引用来源：https://twitter.com/tuiqiandang/status/1129565908979068928
 
 当然别忘了还有维基百科：
-* https://zh.wikipedia.org/wiki/郭文贵
 
+* https://zh.wikipedia.org/wiki/郭文贵
 
 ## § 温馨提示
 
@@ -96,21 +100,27 @@
 
 ## § 资讯渠道
 
-### ¶ 郭媒体：战友们自己的 Twitter（还有 iOS / Android 版本的 App）
-https://www.guo.media
+### ¶ 郭先生主导创立的媒体（还有 iOS / Android 版本的 App）
 
-### ¶ Livestream：郭先生的直播平台
-https://livestream.com/accounts/27235681
+* https://guo.media
+* https://gnews.org
+* https://gtv1.org
+
+### ¶ Livestream：郭先生常用的直播平台
+
+* https://livestream.com/accounts/27235681
 
 ### ¶ Discord 聊天室
+
 * 战友之声 https://discord.gg/ZhGK3EA
 
 ### ¶ YouTube（排名不分先后，没被收录的战友请多海涵，本人注意力有限）
+
 * 郭文贵：郭先生的官方油管频道，但直播功能被限制，只能上传录播  
   https://www.youtube.com/channel/UCO3pO3ykAUybrjv3RBbXEHw
-* 法治基金：Livestream 的镜像，作为郭先生官方油管频道直播功能的补充  
+* 法治基金：镜像备份频道，偶尔用于郭先生官方油管频道直播功能的补充  
   https://www.youtube.com/channel/UCfG2D1ZWTfvp5p3gl5PHmmg
-* 战友之声：由 Sara 及战友们自发组织的挺郭团体，为爆料革命的传播提供坚实保障
+* 战友之家：由 Sara 及战友们自发组织的挺郭团体，为爆料革命的传播提供坚实保障
   * https://www.youtube.com/channel/UCNKpqIqrErG1a-ydQ0D5dcA
   * https://www.youtube.com/channel/UCdWxcRRnVa4FeLZ85Rx_WDw
   * https://www.youtube.com/channel/UCM8t0FbweERXYrxqIk3y7wg
@@ -118,69 +128,31 @@ https://livestream.com/accounts/27235681
   * https://www.youtube.com/channel/UCm3Ysfy0iXhGbIDTNNwLqbQ
   * https://www.youtube.com/channel/UChn0KgNrPmUj5WtF_Z56EFQ
   * https://www.youtube.com/channel/UCUJlNsbSiCoZZDsmDKnoUdg
-* 小五说 https://www.youtube.com/channel/UC5kGYqYH64yhiEm3tATQGTg
+* 木兰访谈 https://www.youtube.com/channel/UCkU5hWnORzZMZf9SkFmjF6g
 * 大卫小哥：前中共情报人员，深谙「一带一路」能源线及金融，配合郭爆料精准打击  
   https://www.youtube.com/channel/UCq5haQKrVHnCQ84YmyBn4KA
-* Inty：搞 IT 的新疆小伙，用程序员的思维传播爆料革命  
-  * https://www.youtube.com/channel/UCA3-DEkClR3G1DG1cq8YbeQ
-  * https://www.youtube.com/channel/UCLRb-MUKSK75ItiP068OtTQ
-* 全民挺郭联盟 https://www.youtube.com/channel/UCEknAh39C8DTIllB5y8Fe-A
-* 澳洲新声 https://www.youtube.com/channel/UC66D8Bl3TeNTgyUAG-mcwHg
-* 凤凰九天 https://www.youtube.com/channel/UCa0CK8yYiIRZzIyPm6nocNg
-* 木兰访谈 https://www.youtube.com/channel/UCkU5hWnORzZMZf9SkFmjF6g
-* 耿炎时间 https://www.youtube.com/channel/UCs8_VqqavezIBLuW2-irhTA
-* Kim C 时间 https://www.youtube.com/channel/UCoxtERQAhnqXmL-mEGgHX2g
-* 孙宇成 https://www.youtube.com/channel/UCH_9XzoNVWoW_-MmjP9oGag
-* 随便小哥 https://www.youtube.com/channel/UCAKze7Umh8z0LpJcRjqaaXg
-* 顽童小哥 https://www.youtube.com/channel/UC9FFI25KApeW0CwW2wqfzAA
-* PPC News https://www.youtube.com/channel/UChSjQqIBCC1dxmufYo_d4aw
-* 北京姑娘聊天室 https://www.youtube.com/channel/UCOirMCtvj9hqt2QC9GUL-LA
+* 面具先生 https://www.youtube.com/channel/UCSWF9l7qSAcBepLkrggE_MA
 * 喜马拉雅工作站 https://www.youtube.com/channel/UCIfGGtdKsxeZarUzW4XhW3A
-* 美东之声 https://www.youtube.com/channel/UCl5taPPgm-Ldfw_31864b7w
-* 漫谈安平 https://www.youtube.com/channel/UCHe7ggudBWmRn3F4zxgiJeA
-* 华夏小哥 https://www.youtube.com/channel/UCC-_4TWfSetG-s-3vaHqvKg
-* 好奇的蚂蚁
-  * https://www.youtube.com/channel/UC1Pqg0BJoPijWFM4Z8555mA
-  * https://www.youtube.com/channel/UCXzjnbuSksU4_Pnop7Z5cRw
-* 贵友社 https://www.youtube.com/channel/UCfyG74GV62goE0GG0VkhAgA
-* ChinaQly中文Q圈 https://www.youtube.com/channel/UCDWi7iBJn7i0JCKbcVQSwpA
-* 有关经济方面比较中肯的频道：
-  * 漫谈财经 https://www.youtube.com/channel/UC9AODB8HvRTuWJfH_896TiQ
-  * 子弘闲谈 https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw
+* 顽童小哥 https://www.youtube.com/channel/UC9FFI25KApeW0CwW2wqfzAA
+* 霹雳小皮匠 https://www.youtube.com/channel/UCOirMCtvj9hqt2QC9GUL-LA
+* 凤凰九天 https://www.youtube.com/channel/UCa0CK8yYiIRZzIyPm6nocNg
 
-### ¶ 对应上述 YouTube 频道的 Twitter
+### ¶ Twitter
+
 > 战友千千万，几乎不太可能列举得完，因此只能列举出战友圈的部分「入口」。  
 > 请通过以下用户的（被）关注者，及推文下的转发/点赞/评论者，裂变式扩大资讯面。
 
 * 路德 https://twitter.com/ding_gang
 * Sara https://twitter.com/sarawei3
 * 战友之声 https://twitter.com/XMY2018
-* 政事小哥 https://twitter.com/zszb_xiaoge
-* Fridaytalks 小五说 https://twitter.com/Fridaytalks
-* 大卫 https://twitter.com/David90582574
-* Inty https://twitter.com/IntyPython
-* 全民挺郭联盟 https://twitter.com/redwallpusher
-* 澳洲新声 https://twitter.com/qiu17190991
-* 邱岳首 https://twitter.com/7k_QYS
-* 安红橘绛轩 https://twitter.com/maryann_3040
-* 凤凰九天 https://twitter.com/goldenp11462989
-* 木兰访谈 https://twitter.com/CanadaKhaleesi
-* 木兰传奇 https://twitter.com/Mulan2020
 * 卡丽熙 https://twitter.com/pinkduli
-* 耿炎 https://twitter.com/AndyBankwest
-* kim C https://twitter.com/kimckimc12345
-* 孙宇成 https://twitter.com/SYC999
-* 随便小哥 https://twitter.com/SuiBianXiaoGe
+* 木兰传奇 https://twitter.com/Mulan2020
+* 政事小哥 https://twitter.com/zszb_xiaoge
+* 大卫小哥 https://twitter.com/David90582574
+* 安红橘绛轩 https://twitter.com/maryann_3040
+* 喜马拉雅国际工作站 https://twitter.com/GlobalHimalaya
+* 凤凰九天 https://twitter.com/goldenp11462989
 * 顽童小哥 https://twitter.com/Wesleywg87
-* 北京姑娘聊天室 https://twitter.com/zvBjV0X0FF8P56y
-* 喜马拉雅国际工作站 https://twitter.com/HGW45599518
-* 美东之声 https://twitter.com/meidongzhisheng
-* 庄烈宏 https://twitter.com/kiddjoneke
-* 瑞安平 https://twitter.com/PingSereanRyan
-* 华夏小哥 https://twitter.com/Huaxia_yixiao
-* 好奇的蚂蚁03 https://twitter.com/CuriousAnt003
-* 贵友 https://twitter.com/Wenai13
-* 财经真相 https://twitter.com/caijingxiang
 
 > 值得注意的是，上述用户的（被）关注者以及转发/点赞/评论者，未必都是挺郭战友。  
 > 例如，某些伪类一开始通过狂热「挺郭」博得战友信任成为大 V，随后却「砸郭」。  
@@ -192,27 +164,29 @@ https://livestream.com/accounts/27235681
 > 因此，在下面的内容中我会穿插介绍如何分辨伪类。
 
 ### ¶ 郭先生视频文字版（感谢「战友之声」听写组）
+
 * https://littleantvoice.blogspot.com
 * https://github.com/ourhimalayas/txt
 * Discord「战友之声」聊天室中的 `#下载郭先生视频文字`
 
-### ¶ 郭爆料革命视频搜索引擎
-https://guo.freevog.ml
-
 ### ¶ Telegram 电报群
+
 请留意各 YouTube 频道的「简介」及视频下方的描述。
 
 ## § 常见问题
 
 ### ¶ 视频太多，看不完，怎么办？
-* 可选择看「战友之声」听写组的视频文字版
+
 * 调快视频播放速度
 * 开 Premium 会员可砍掉广告耗时
+* 可选择看「战友之声」听写组的视频文字版
 * 坚持健身，故可在健身时听，尤其是做平板撑时还能边听边看
 * Twitter 中的战友们会总结成文字版（往往还会配上对应的视频片段）转发
 * 部分 YouTube 视频下的评论还会有热心战友帮忙切分好对应的时间点及总结
+* 可选安装倍速播放插件 https://github.com/Pangu2020together/video-play-speed-extension
 
 ### ¶ 现阶段我们应该干什么？
+
 在保证自身及家人安全的前提下，多多传播爆料革命。  
 如果你还想贡献更多，欢迎到「战友之声」Discord 聊天室的 `#义工报名区`。
 
@@ -221,6 +195,7 @@ https://guo.freevog.ml
 你的捐款（无论多少）相当于投票，捐款人数越多，法治基金的话语权和能量也将越大。
 
 法治基金分为：
+
 * 可抵税的 501(c)(3)：https://rolfoundation.org/index-chinese.php
 * 不抵税的 501(c)(4)：https://rolsociety.org/index-chinese.php
 
@@ -228,6 +203,7 @@ https://guo.freevog.ml
 如需帮助，请到「战友之声」Discord 聊天室的 `#法治基金捐款互助`。
 
 ### ¶ Twitter 推荐关注的用户，以及 YouTube 推荐关注的频道，都是战友吗？
+
 并不是，而且更为遗憾的是，其中不乏伪类。
 
 老共靠「宣传」起家，所以有关舆论媒体控制及相应的技术都不乏人力物力财力渠道资源。  
@@ -241,6 +217,7 @@ https://guo.freevog.ml
 配合在 Twitter / YouTube 的内鬼有针对性地调整推荐系统的算法权重，基本可以吃定新战友。
 
 而对于那些较为活跃的战友，老共又会采用各种下三滥的手段：
+
 * 墙内战友：威胁恐吓
   * 警察传唤喝茶写检讨，表现不服、意志坚定者还会面临更严重的刑罚
   * 被逼交出推特账号密码后，其推特由专人负责运营「砸郭」
@@ -258,13 +235,14 @@ https://guo.freevog.ml
 
 说了那么多，貌似跟问题本身关系不大。  
 实则不然。综上所述，基本可以得出如下结论：
+
 * 任何平台上都充斥着巨量的虚假伪劣、带歪节奏的垃圾资讯，其排名及热度往往都非常高
 * 能真正挺过老共各种威逼利诱的活跃大 V 往往是少数，更多的可能是默默支持的战友
 * 老共可打造出迷惑性极强的大 V，其内容看起来并无明显不妥，其评论下也有五毛水军
 * 两个立场对立的大 V 可能都是伪类，可能是老共的「双盲|双枪」策，也可能是「双簧戏」
 * 如果没有良好的引导，新战友被带歪的几率相当高，随之而来的是人身财产的安全威胁
 
-所以如果你关注的某大 V 突然「砸郭」，别浪费时间劝，可能未必是本人，直接拉黑就好。  
+所以如果你关注的某大 V 突然「砸郭」，别浪费时间劝说，既暴露则安之，直接拉黑就好。  
 切记：伪类们吃人不吐骨头，他们可能为了一点蝇头之利就把你的所有个人信息给出卖了。  
 因此，请务必记住最重要的原则：**战友之间必须保持距离**！！！
 
@@ -277,6 +255,7 @@ https://guo.freevog.ml
 是伪类肯定会露出狐狸尾巴，因为肯定都是带任务的，出手的时候就是暴露的时候。
 
 ### ¶ 如何判断伪类？
+
 > 本问题算是上一个问题的延续，但实际上并没有标准答案，往往只能靠时间检验。  
 > 在此我也没必要列出目前所有伪类的名字来玷污我的文章，下面仅列举我的经验。
 
@@ -328,34 +307,10 @@ https://guo.freevog.ml
 > 与此类似的还有海外大外宣旗下的所谓知名反共媒体：博讯、明镜、多维、南华早报等
 
 ### ¶ 身处墙内，不小心被暴露了，即将被喝茶，怎么办？
+
 请参考「战友之声」的「90后谈推特喝茶经历」：
+
 * https://www.youtube.com/watch?v=5Bqh3HMgAiA
-
-### ¶ 盗国贼只有中国有吗？
-显然不是，这是一个全球性的盗国贼联盟，里应外合。  
-因此，除了我们华人的郭文贵爆料革命，还有「QAnon」，资讯量可不比我们少。  
-我对于这方面的认知尚浅，基本都来源于「妄议热线」中其他战友的资讯。  
-在此，我仅列举相关资料，「学有余力」的战友们不妨研究一下：
-* 门户网站
-  * https://qmap.pub
-* Twitter 用户：
-  * Joe M https://twitter.com/StormIsUponUs
-* Twitter 标签：
-  * https://twitter.com/hashtag/Qanon
-  * https://twitter.com/hashtag/QArmy
-  * https://twitter.com/hashtag/MAGA
-  * https://twitter.com/hashtag/WWG1WGA
-  * https://twitter.com/hashtag/DarkToLight
-  * https://twitter.com/hashtag/TheGreatAwakening
-* YouTube 频道
-  * Joe M https://www.youtube.com/channel/UCDFe_yKnRf4XM7W_sWbcxtw
-  * ChinaQly中文Q圈 https://www.youtube.com/channel/UCDWi7iBJn7i0JCKbcVQSwpA
-  * 顽童小哥 https://www.youtube.com/channel/UC9FFI25KApeW0CwW2wqfzAA
-  * 暗黑小姐姐 https://www.youtube.com/channel/UCdoQpC44G6ta8FCNQx2wbog
-
-除此之外，目前「维基解密」也算是另一条战线：
-  * 官网：https://wikileaks.org
-  * 所有解密文件地址：https://file.wikileaks.org/file
 
 ## § 结语
 
